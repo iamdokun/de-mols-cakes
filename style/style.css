@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    background-color: #003183;
+    color: white;
+}
+.content1 {
+    background-color: grey;
+}
+.content2 {
+    background-color: hotpink;
+}
+.content3 {
+    background-color: khaki;
+}
+.content4 {
+    background-color: grey;
+}
